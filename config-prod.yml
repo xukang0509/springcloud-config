@@ -1,2 +1,2 @@
 config:
-  prod: springcloud-config Prod Hello
+  info: springcloud-config Prod Hello
