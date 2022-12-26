@@ -1,1 +1,2 @@
-springcloud-config Dev Hello
+config:
+  dev: springcloud-config Dev Hello

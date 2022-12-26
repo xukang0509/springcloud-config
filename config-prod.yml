@@ -1,1 +1,2 @@
-springcloud-config Prod Hello
+config:
+  prod: springcloud-config Prod Hello
